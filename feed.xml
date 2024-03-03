@@ -1,29 +1,29 @@
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:ns2="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>GKR Aktuell</title>
     <language>de</language>
     <lastBuildDate>Tue, 16 Jan 2024 14:15:52 +0100</lastBuildDate>
-    <description>Berichte aus den Sitzungen des GKR</description>
+    <description>Berichte aus den Sitzungen des GKR der Bartholomäusgemeinde Halle Saale</description>
     <link>https://bartho.org</link>
     <ns0:type>episodic</ns0:type>
     <image>
       <url>https://gkraktuell.bartho.org/thumbnail.jpg</url>
-      <title />
-      <link>https://www.bartho.org</link>
+      <title>GKR Aktuell</title>
+      <link>https://bartho.org</link>
     </image>
-    <ns0:image href="" />
+    <ns0:image href="https://gkraktuell.bartho.org/thumbnail.jpg" />
     <ns0:subtitle />
     <ns0:author>Till Hanke, Henriette Meyer, Cornelia B&#252;del, Ralf D&#246;bbeling und Tobias Brandt</ns0:author>
     <ns0:explicit>no</ns0:explicit>
     <ns0:keywords>Kirche,EKM,Bartholom&#228;us,Bartho,GKR</ns0:keywords>
-    <ns0:category text="Gesellschaft" />
-    <ns0:category text="Soziales" />
+    <ns0:category text="Religion &amp; Spirituality" />
     <ns0:category text="Society &amp; Culture" />
     <ns0:summary>Neuigkeiten aus dem GKR der Bartholom&#228;usgemeinde in Halle</ns0:summary>
     <ns0:owner>
       <ns0:name>Till Hanke</ns0:name>
       <ns0:email>Till.hanke@bartho.org</ns0:email>
     </ns0:owner>
+    <ns2:link href="https://gkraktuell.bartho.org/feed.xml" rel="self" type="application/rss+xml" />
 <item>
       <title>GKR Aktuell 001</title>
       <ns0:title>GKR Aktuell 001</ns0:title>
@@ -695,12 +695,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/018.mp3" type="audio/mpeg" length="332" />  
       <ns0:duration>332</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:16">FSJler:in</chapter>
-<chapter start="02:24">Lange Nacht der Kirchen</chapter>
-<chapter start="03:40">Gemeindeversammlung</chapter>
-<chapter start="04:18">Hygienekonzept</chapter>
-<chapter start="05:07">Outro</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:16">FSJler:in</ns1:chapter>
+<ns1:chapter start="02:24">Lange Nacht der Kirchen</ns1:chapter>
+<ns1:chapter start="03:40">Gemeindeversammlung</ns1:chapter>
+<ns1:chapter start="04:18">Hygienekonzept</ns1:chapter>
+<ns1:chapter start="05:07">Outro</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -740,13 +740,13 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/019.mp3" type="audio/mpeg" length="655" />  
       <ns0:duration>655</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:22">Pace Projekt</chapter>
-<chapter start="01:20">Nextcloud im GKR</chapter>
-<chapter start="02:29">Treffen mit Petrus GKR</chapter>
-<chapter start="03:45">Bandraum und Bartho Band</chapter>
-<chapter start="05:28">Gottesdienst "Beteiligt"</chapter>
-<chapter start="07:26">Gemeindevormittag</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:22">Pace Projekt</ns1:chapter>
+<ns1:chapter start="01:20">Nextcloud im GKR</ns1:chapter>
+<ns1:chapter start="02:29">Treffen mit Petrus GKR</ns1:chapter>
+<ns1:chapter start="03:45">Bandraum und Bartho Band</ns1:chapter>
+<ns1:chapter start="05:28">Gottesdienst "Beteiligt"</ns1:chapter>
+<ns1:chapter start="07:26">Gemeindevormittag</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -784,12 +784,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/020.mp3" type="audio/mpeg" length="234" />  
       <ns0:duration>234</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:24">FSJler</chapter>
-<chapter start="00:57">Austritt aus dem GKR</chapter>
-<chapter start="01:19">Vikar</chapter>
-<chapter start="01:46">Raumvermietung</chapter>
-<chapter start="02:38">Gottesdienste im Sommer</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:24">FSJler</ns1:chapter>
+<ns1:chapter start="00:57">Austritt aus dem GKR</ns1:chapter>
+<ns1:chapter start="01:19">Vikar</ns1:chapter>
+<ns1:chapter start="01:46">Raumvermietung</ns1:chapter>
+<ns1:chapter start="02:38">Gottesdienste im Sommer</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -830,15 +830,15 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/021.mp3" type="audio/mpeg" length="512" />  
       <ns0:duration>512</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:19">Einladung an die Koordinator:innen</chapter>
-<chapter start="00:49">Seniorenarbeit</chapter>
-<chapter start="01:49">Senioren Rikscha</chapter>
-<chapter start="03:20">Fahrradst&#228;nder vor der Gemeinde</chapter>
-<chapter start="03:17">Steiler Berg Au&#223;enmauer</chapter>
-<chapter start="05:30">Tag der offenen T&#252;r Steiler Berg</chapter>
-<chapter start="05:53">Zusammenarbeit Petrus und Bartholom&#228;us</chapter>
-<chapter start="07:45">Besuch in Chemnitz oder Erfurt</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:19">Einladung an die Koordinator:innen</ns1:chapter>
+<ns1:chapter start="00:49">Seniorenarbeit</ns1:chapter>
+<ns1:chapter start="01:49">Senioren Rikscha</ns1:chapter>
+<ns1:chapter start="03:20">Fahrradst&#228;nder vor der Gemeinde</ns1:chapter>
+<ns1:chapter start="03:17">Steiler Berg Au&#223;enmauer</ns1:chapter>
+<ns1:chapter start="05:30">Tag der offenen T&#252;r Steiler Berg</ns1:chapter>
+<ns1:chapter start="05:53">Zusammenarbeit Petrus und Bartholom&#228;us</ns1:chapter>
+<ns1:chapter start="07:45">Besuch in Chemnitz oder Erfurt</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -876,12 +876,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/022.mp3" type="audio/mpeg" length="286" />  
       <ns0:duration>286</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:24">Silvester</chapter>
-<chapter start="01:09">Villa J&#252;hling</chapter>
-<chapter start="01:50">Klausur 2023</chapter>
-<chapter start="02:45">Allianz Gebetswoche</chapter>
-<chapter start="03:20">Werbung</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:24">Silvester</ns1:chapter>
+<ns1:chapter start="01:09">Villa J&#252;hling</ns1:chapter>
+<ns1:chapter start="01:50">Klausur 2023</ns1:chapter>
+<ns1:chapter start="02:45">Allianz Gebetswoche</ns1:chapter>
+<ns1:chapter start="03:20">Werbung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -917,12 +917,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/023.mp3" type="audio/mpeg" length="384" />  
       <ns0:duration>384</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:26">Haushalt 2023</chapter>
-<chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</chapter>
-<chapter start="04:02">N&#228;chste GKR-Sitzung</chapter>
-<chapter start="05:02">Silvesterfeier 2022/2023</chapter>
-<chapter start="06:05">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:26">Haushalt 2023</ns1:chapter>
+<ns1:chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</ns1:chapter>
+<ns1:chapter start="04:02">N&#228;chste GKR-Sitzung</ns1:chapter>
+<ns1:chapter start="05:02">Silvesterfeier 2022/2023</ns1:chapter>
+<ns1:chapter start="06:05">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -946,12 +946,12 @@ https://www.ekmd.de/kirche/landessynode/tagungen/4-tagung-der-iii-landessynode-v
       <enclosure url="https://gkraktuell.bartho.org/archive/024.mp3" type="audio/mpeg" length="1339" />  
       <ns0:duration>1339</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:26">Haushalt 2023</chapter>
-<chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</chapter>
-<chapter start="04:02">N&#228;chste GKR-Sitzung</chapter>
-<chapter start="05:02">Silvesterfeier 2022/2023</chapter>
-<chapter start="06:05">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:26">Haushalt 2023</ns1:chapter>
+<ns1:chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</ns1:chapter>
+<ns1:chapter start="04:02">N&#228;chste GKR-Sitzung</ns1:chapter>
+<ns1:chapter start="05:02">Silvesterfeier 2022/2023</ns1:chapter>
+<ns1:chapter start="06:05">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -981,9 +981,9 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/025.mp3" type="audio/mpeg" length="427" />  
       <ns0:duration>427</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:10">Klausur 2023</chapter>
-<chapter start="07:00">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:10">Klausur 2023</ns1:chapter>
+<ns1:chapter start="07:00">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1021,14 +1021,14 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/026.mp3" type="audio/mpeg" length="634" />  
       <ns0:duration>634</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:38">Jugendarbeit</chapter>
-<chapter start="01:24">Gemeindehaus</chapter>
-<chapter start="02:55">neue Kantorenstelle</chapter>
-<chapter start="04:21">Gemeindevormittag am 18.06.2023</chapter>
-<chapter start="04:47">Haushaltsbeschluss</chapter>
-<chapter start="06:20">Warum kommt manchmal kein Podcast?</chapter>
-<chapter start="10:02">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:38">Jugendarbeit</ns1:chapter>
+<ns1:chapter start="01:24">Gemeindehaus</ns1:chapter>
+<ns1:chapter start="02:55">neue Kantorenstelle</ns1:chapter>
+<ns1:chapter start="04:21">Gemeindevormittag am 18.06.2023</ns1:chapter>
+<ns1:chapter start="04:47">Haushaltsbeschluss</ns1:chapter>
+<ns1:chapter start="06:20">Warum kommt manchmal kein Podcast?</ns1:chapter>
+<ns1:chapter start="10:02">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1070,15 +1070,15 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/027.mp3" type="audio/mpeg" length="573" />  
       <ns0:duration>573</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro</chapter>
-<chapter start="00:27">Tuten und Blasen am Mi 28.06.2023</chapter>
-<chapter start="01:36">Gemeindevormittag am 08.10.2023</chapter>
-<chapter start="03:01">Koordinator:innen treffen</chapter>
-<chapter start="04:20">Vernissage der Mauer am Steilen Berg am 05.07.2023</chapter>
-<chapter start="05:14">Abendmahl</chapter>
-<chapter start="06:44">Aufruf zum Kirchdienst</chapter>
-<chapter start="07:17">Zukunftsprozess</chapter>
-<chapter start="09:25">Abschied</chapter>
+<ns1:chapter start="00:00">Intro</ns1:chapter>
+<ns1:chapter start="00:27">Tuten und Blasen am Mi 28.06.2023</ns1:chapter>
+<ns1:chapter start="01:36">Gemeindevormittag am 08.10.2023</ns1:chapter>
+<ns1:chapter start="03:01">Koordinator:innen treffen</ns1:chapter>
+<ns1:chapter start="04:20">Vernissage der Mauer am Steilen Berg am 05.07.2023</ns1:chapter>
+<ns1:chapter start="05:14">Abendmahl</ns1:chapter>
+<ns1:chapter start="06:44">Aufruf zum Kirchdienst</ns1:chapter>
+<ns1:chapter start="07:17">Zukunftsprozess</ns1:chapter>
+<ns1:chapter start="09:25">Abschied</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1120,12 +1120,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/028.mp3" type="audio/mpeg" length="513" />  
       <ns0:duration>513</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter>
-<chapter start="00:35">Sportplatz Rotation</chapter>
-<chapter start="03:50">Gemeindevormittag gemeinsam mit Petrus</chapter>
-<chapter start="04:20">Absichtserkl&#228;rung Zusammenschluss Petrus und Bartholom&#228;us</chapter>
-<chapter start="05:25">Transformationsprozess in Arbeitsgruppen</chapter>
-<chapter start="08:15">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns1:chapter>
+<ns1:chapter start="00:35">Sportplatz Rotation</ns1:chapter>
+<ns1:chapter start="03:50">Gemeindevormittag gemeinsam mit Petrus</ns1:chapter>
+<ns1:chapter start="04:20">Absichtserkl&#228;rung Zusammenschluss Petrus und Bartholom&#228;us</ns1:chapter>
+<ns1:chapter start="05:25">Transformationsprozess in Arbeitsgruppen</ns1:chapter>
+<ns1:chapter start="08:15">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1167,13 +1167,13 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/029.mp3" type="audio/mpeg" length="1386" />  
       <ns0:duration>1386</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter>
-<chapter start="00:20">Interview Kollektiv Drehkreuz</chapter>
-<chapter start="11:28">Reflektion des Rave von Ralf</chapter>
-<chapter start="11:54">Polizei in Nachbarschaft, Raub auf Kirchengel&#228;nde</chapter>
-<chapter start="17:46">Ruhestand von Frau Paul</chapter>
-<chapter start="20:28">Verabschiedung</chapter>
-<chapter start="20:41">Eindr&#252;cke vom Rave</chapter>
+<ns1:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns1:chapter>
+<ns1:chapter start="00:20">Interview Kollektiv Drehkreuz</ns1:chapter>
+<ns1:chapter start="11:28">Reflektion des Rave von Ralf</ns1:chapter>
+<ns1:chapter start="11:54">Polizei in Nachbarschaft, Raub auf Kirchengel&#228;nde</ns1:chapter>
+<ns1:chapter start="17:46">Ruhestand von Frau Paul</ns1:chapter>
+<ns1:chapter start="20:28">Verabschiedung</ns1:chapter>
+<ns1:chapter start="20:41">Eindr&#252;cke vom Rave</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1214,13 +1214,13 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/030.mp3" type="audio/mpeg" length="979" />  
       <ns0:duration>979</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter>
-<chapter start="00:08">Neue Fahrradb&#252;gel vor dem Kirchhof</chapter>
-<chapter start="00:57">Haushaltssichtung und -planung</chapter>
-<chapter start="02:07">Ergebnisse der GKR Klausur</chapter>
-<chapter start="12:33">SV Rotation</chapter>
-<chapter start="15:10">Trauer um GKR Mitglied</chapter>
-<chapter start="16:13">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns1:chapter>
+<ns1:chapter start="00:08">Neue Fahrradb&#252;gel vor dem Kirchhof</ns1:chapter>
+<ns1:chapter start="00:57">Haushaltssichtung und -planung</ns1:chapter>
+<ns1:chapter start="02:07">Ergebnisse der GKR Klausur</ns1:chapter>
+<ns1:chapter start="12:33">SV Rotation</ns1:chapter>
+<ns1:chapter start="15:10">Trauer um GKR Mitglied</ns1:chapter>
+<ns1:chapter start="16:13">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1260,12 +1260,12 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/031.mp3" type="audio/mpeg" length="389" />  
       <ns0:duration>389</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter>
-<chapter start="00:14">Silvesterfreizeitt</chapter>
-<chapter start="01:33">Neue Reinigungskraft</chapter>
-<chapter start="02:01">Jahresplanung 2024</chapter>
-<chapter start="02:40">Kollektenzwecke 2024</chapter>
-<chapter start="04:20">Umpfarrungen nach Umzug</chapter>
+<ns1:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns1:chapter>
+<ns1:chapter start="00:14">Silvesterfreizeitt</ns1:chapter>
+<ns1:chapter start="01:33">Neue Reinigungskraft</ns1:chapter>
+<ns1:chapter start="02:01">Jahresplanung 2024</ns1:chapter>
+<ns1:chapter start="02:40">Kollektenzwecke 2024</ns1:chapter>
+<ns1:chapter start="04:20">Umpfarrungen nach Umzug</ns1:chapter>
 </ns1:chapters>
 </item> 
 <item>
@@ -1314,16 +1314,16 @@ ToC:
       <enclosure url="https://gkraktuell.bartho.org/archive/032.mp3" type="audio/mpeg" length="739" />  
       <ns0:duration>739</ns0:duration>
     <ns1:chapters>
-<chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter>
-<chapter start="00:17">Erg&#228;nzung GKR Aktuell 31</chapter>
-<chapter start="00:55">Kindergottesdienste &amp; Aufruf f&#252;r mehr Ehrenamtliche</chapter>
-<chapter start="04:06">Fortbildung von Ehrenamtlichen</chapter>
-<chapter start="05:23">Reinigungsvertrag zur Fassadenreinigung</chapter>
-<chapter start="07:06">Reparatur am Dach am Gemeindehaus</chapter>
-<chapter start="08:17">Rave Veranstaltung Wiederholung geplant</chapter>
-<chapter start="10:14">R&#252;ckblick Silvestersause im Gemeindehaus</chapter>
-<chapter start="11:26">Podcatcher Ank&#252;ndigung</chapter>
-<chapter start="11:58">Verabschiedung</chapter>
+<ns1:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns1:chapter>
+<ns1:chapter start="00:17">Erg&#228;nzung GKR Aktuell 31</ns1:chapter>
+<ns1:chapter start="00:55">Kindergottesdienste &amp; Aufruf f&#252;r mehr Ehrenamtliche</ns1:chapter>
+<ns1:chapter start="04:06">Fortbildung von Ehrenamtlichen</ns1:chapter>
+<ns1:chapter start="05:23">Reinigungsvertrag zur Fassadenreinigung</ns1:chapter>
+<ns1:chapter start="07:06">Reparatur am Dach am Gemeindehaus</ns1:chapter>
+<ns1:chapter start="08:17">Rave Veranstaltung Wiederholung geplant</ns1:chapter>
+<ns1:chapter start="10:14">R&#252;ckblick Silvestersause im Gemeindehaus</ns1:chapter>
+<ns1:chapter start="11:26">Podcatcher Ank&#252;ndigung</ns1:chapter>
+<ns1:chapter start="11:58">Verabschiedung</ns1:chapter>
 </ns1:chapters>
 </item> 
 </channel>
