@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
 import json
 import sys
@@ -53,7 +53,8 @@ for it in root_xml[0].findall('item'):
 if update == False:
     print("Item does not exist, creating new")
     root_xml[0].append(copy.deepcopy(root_xml[0][-1]))
-    item = root_xml[0][-1]
+    root_xml[0].insert(17, copy.deepcopy(root_xml[0][17]))
+    item = root_xml[0][17]
 
 # include values from json to item
 item.find("title").text = ytjson["title"]
