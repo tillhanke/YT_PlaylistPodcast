@@ -2,7 +2,7 @@
   <channel>
     <title>GKR Aktuell</title>
     <language>de</language>
-    <lastBuildDate>Sun, 03 Mar 2024 21:28:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 13:23:24 +0100</lastBuildDate>
     <description>Berichte aus den Sitzungen des GKR der Bartholom&#228;usgemeinde Halle Saale</description>
     <link>https://bartho.org</link>
     <ns0:type>episodic</ns0:type>
@@ -24,6 +24,48 @@
       <ns0:email>Till.hanke@bartho.org</ns0:email>
     </ns0:owner>
     <ns1:link href="https://gkraktuell.bartho.org/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+      <title>GKR Aktuell 034</title>
+      <ns0:title>GKR Aktuell 034</ns0:title>
+      <description>Themen im Februar waren:
+
+- Zuk&#252;nftiger Stellenplan des Kirchenkreises
+- Besprechung zur Anfrage des Drehkreuzkollektivs f&#252;r die Wiederholung des Raves in der Kirche
+- &#220;bergangsfest f&#252;r angehende Schulkinder im Juni
+- Ideen zur Silvesterfeier 2024 in Bartho mit Einladung an andere Gemeinden und in den Kirchenkreis
+
+
+GKR aktuell als Podcast abonnieren (Link kopieren und in eurer Podcast App einf&#252;gen) : gkraktuell.bartho.org/feed
+
+Weitere Infos findet ihr auf unserer Homepage unter:
+https://bartho.org
+
+=====
+ToC:
+=====
+00:00 - Intro &amp; Begr&#252;&#223;ung
+00:26 - Zuk&#252;nftiger Stellenplan
+02:22 - Aktuelles zum Gottesdienst Livestreaming
+03:35 - Abschlussprojekt des Vikars Fridolin W.
+04:10 - Rave in der Kirche vom Drehkreuzkollektiv
+04:33 - Zum &#220;bergangsfest &amp; Einschulungsgottesdienst
+06:11 - Silvesterfeier 2024
+06:55 - Einladung zum Gemeindevormittag am 07.04.
+08:14 - Verabschiedung</description>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/bPyXKUwke3A</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/034.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi_webp/bPyXKUwke3A/maxresdefault.webp" />
+      <ns0:episode>034</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/034.mp3" type="audio/mpeg" length="505" />  
+      <ns0:duration>505</ns0:duration>
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:26">Zuk&#252;nftiger Stellenplan</chapter><chapter start="02:22">Aktuelles zum Gottesdienst Livestreaming</chapter><chapter start="03:35">Abschlussprojekt des Vikars Fridolin W.</chapter><chapter start="04:10">Rave in der Kirche vom Drehkreuzkollektiv</chapter><chapter start="04:33">Zum &#220;bergangsfest &amp; Einschulungsgottesdienst</chapter><chapter start="06:11">Silvesterfeier 2024</chapter><chapter start="06:55">Einladung zum Gemeindevormittag am 07.04.</chapter><chapter start="08:14">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 033</title>
       <ns0:title>GKR Aktuell 033</ns0:title>
@@ -1352,6 +1394,24 @@ Weitere Infos zur Gemeinde findet ihr unter: https://www.bartho.org</description
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/002.mp3" type="audio/mpeg" length="286" />  
       <ns0:duration>286</ns0:duration>
+    </item> 
+<item>
+      <title>GKR Aktuell 001</title>
+      <ns0:title>GKR Aktuell 001</ns0:title>
+      <description />
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/YjBSAvDVrwo</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/001.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi_webp/YjBSAvDVrwo/sddefault.webp" />
+      <ns0:episode>001</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/001.mp3" type="audio/mpeg" length="553" />  
+      <ns0:duration>553</ns0:duration>
     </item> 
 <item>
       <title>GKR Aktuell 001</title>
