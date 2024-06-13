@@ -2,7 +2,7 @@
   <channel>
     <title>GKR Aktuell</title>
     <language>de</language>
-    <lastBuildDate>Sun, 31 Mar 2024 13:23:24 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 13:45:51 +0100</lastBuildDate>
     <description>Berichte aus den Sitzungen des GKR der Bartholom&#228;usgemeinde Halle Saale</description>
     <link>https://bartho.org</link>
     <ns0:type>episodic</ns0:type>
@@ -25,9 +25,123 @@
     </ns0:owner>
     <ns1:link href="https://gkraktuell.bartho.org/feed.xml" rel="self" type="application/rss+xml" />
 <item>
+      <title>GKR Aktuell 036</title>
+      <ns0:title>GKR Aktuell 036</ns0:title>
+      <description>GKR Aktuell im Mai mit Henriette und Till.
+Themen im Mai waren:
+- Umfrage zur Beteiligungsgemeinde
+- Jugendarbeit
+- Jahresabschluss
+- Umpfarrungen
+
+GKR aktuell als Podcast abonnieren (Link kopieren und in eurer Podcast App einf&#252;gen) : gkraktuell.bartho.org/feed
+
+Weitere Infos findet ihr auf unserer Homepage unter:
+https://bartho.org
+
+=====
+ToC:
+=====
+00:00 - Intro &amp; Begr&#252;&#223;ung
+00:26 - Umfrage Beteiligungsgemeinde
+01:35 - Jugendarbeit 
+04:51 - Jahresabschluss
+05:59 - Umpfarrungen
+06:33 - Verabschiedung</description>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/QVDFLLJRMHo</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/036.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi/QVDFLLJRMHo/maxresdefault.jpg" />
+      <ns0:episode>036</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/036.mp3" type="audio/mpeg" length="398" />  
+      <ns0:duration>398</ns0:duration>
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:26">Umfrage Beteiligungsgemeinde</chapter><chapter start="01:35">Jugendarbeit</chapter><chapter start="04:51">Jahresabschluss</chapter><chapter start="05:59">Umpfarrungen</chapter><chapter start="06:33">Verabschiedung</chapter></ns2:chapters></item> 
+<item>
+      <title>GKR Aktuell 035</title>
+      <ns0:title>GKR Aktuell 035</ns0:title>
+      <description>GKR Aktuell im April mit Frido und Till.
+Themen im April waren:
+- Rave in der Kirche auch 2024
+- Spielefestival zur langen Nacht der Kirchen
+- Bartho Jugend
+- Gottesdienstablauf
+- F&#246;rdermittel
+- Gemeindevormittag im Juni
+
+GKR aktuell als Podcast abonnieren (Link kopieren und in eurer Podcast App einf&#252;gen) : gkraktuell.bartho.org/feed
+
+Weitere Infos findet ihr auf unserer Homepage unter:
+https://bartho.org
+
+=====
+ToC:
+=====
+00:00 - Intro &amp; Begr&#252;&#223;ung
+00:34 - Vorstellung Frido
+01:14 - Rave 2024 Edition/ Lange Nacht der Kirchen
+02:30 - Spielefestival in Bartho
+04:00 - Bartho Jugend
+05:40 - Neuer Gottesdienstablauf
+07:45 - F&#246;rdermittel
+09:00 - Drehkreuz Kollektiv
+09:52 - Abschlussgottesdienst Spielefestival in Petrus
+10:26 - Gemeindevormittag im Juni
+11:20 - Verabschiedung</description>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/Ssfe1YaHKlk</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/035.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi/Ssfe1YaHKlk/maxresdefault.jpg" />
+      <ns0:episode>035</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/035.mp3" type="audio/mpeg" length="688" />  
+      <ns0:duration>688</ns0:duration>
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:34">Vorstellung Frido</chapter><chapter start="01:14">Rave 2024 Edition/ Lange Nacht der Kirchen</chapter><chapter start="02:30">Spielefestival in Bartho</chapter><chapter start="04:00">Bartho Jugend</chapter><chapter start="05:40">Neuer Gottesdienstablauf</chapter><chapter start="07:45">F&#246;rdermittel</chapter><chapter start="09:00">Drehkreuz Kollektiv</chapter><chapter start="09:52">Abschlussgottesdienst Spielefestival in Petrus</chapter><chapter start="10:26">Gemeindevormittag im Juni</chapter><chapter start="11:20">Verabschiedung</chapter></ns2:chapters></item> 
+<item>
+      <title>GKR Aktuell 009</title>
+      <ns0:title>GKR Aktuell 009</ns0:title>
+      <description>News aus dem Gemeindekirchenrat. 
+
+Themen in diesem Monat waren unter anderem:
+- Vorstellung der neuen Gemeindesekret&#228;rin
+- Umzug des Gemeindeb&#252;ros
+- Neuer Raum f&#252;r Maxim&#228;use und Kinder- &amp; Jugendarbeit
+
+
+
+Die Sitzung fand am 25.05.2021 statt.
+
+
+Weitere Infos zur Gemeinde findet ihr unter: https://www.bartho.org</description>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/nX1NENgi5RY</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/009.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi_webp/nX1NENgi5RY/maxresdefault.webp" />
+      <ns0:episode>009</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/009.mp3" type="audio/mpeg" length="214" />  
+      <ns0:duration>214</ns0:duration>
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:26">Zuk&#252;nftiger Stellenplan</chapter><chapter start="02:22">Aktuelles zum Gottesdienst Livestreaming</chapter><chapter start="03:35">Abschlussprojekt des Vikars Fridolin W.</chapter><chapter start="04:10">Rave in der Kirche vom Drehkreuzkollektiv</chapter><chapter start="04:33">Zum &#220;bergangsfest &amp; Einschulungsgottesdienst</chapter><chapter start="06:11">Silvesterfeier 2024</chapter><chapter start="06:55">Einladung zum Gemeindevormittag am 07.04.</chapter><chapter start="08:14">Verabschiedung</chapter></ns2:chapters></item> 
+<item>
       <title>GKR Aktuell 034</title>
       <ns0:title>GKR Aktuell 034</ns0:title>
-      <description>Themen im Februar waren:
+      <description>GKR Aktuell im M&#228;rz mit Ralf und Till.
+Themen im M&#228;rz waren:
 
 - Zuk&#252;nftiger Stellenplan des Kirchenkreises
 - Besprechung zur Anfrage des Drehkreuzkollektivs f&#252;r die Wiederholung des Raves in der Kirche
@@ -69,7 +183,8 @@ ToC:
 <item>
       <title>GKR Aktuell 033</title>
       <ns0:title>GKR Aktuell 033</ns0:title>
-      <description>Themen im Februar waren:
+      <description>GKR Aktuell im Februar mit Henriette und Till.
+Themen im Februar waren:
 
 - Gespr&#228;ch mit Konrad Liebscher (Kirchenmusiker)
 - Klausur mit Petrus, Abstimmung &#252;ber Gemeindezusammenschluss
@@ -123,6 +238,8 @@ ToC:
 - Ank&#252;ndigung zur erneuten Zusammenarbeit mit Drehkreuz zum Rave in der Kirche
 - Einblick zur Silvestersause im Gemeindehaus
 
+Die Jahresplanung der Gemeinde findet sich unter: https://www.bartho.org/termin-kalender/
+
 GKR aktuell 29: Interview zum Rave in der Kirche: https://youtu.be/HeMqqP3aEKI
 
 GKR aktuell als Podcast abonnieren (Link kopieren und in eurer Podcast App einf&#252;gen) : gkraktuell.bartho.org/feed
@@ -156,19 +273,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/032.mp3" type="audio/mpeg" length="739" />  
       <ns0:duration>739</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns2:chapter>
-<ns2:chapter start="00:17">Erg&#228;nzung GKR Aktuell 31</ns2:chapter>
-<ns2:chapter start="00:55">Kindergottesdienste &amp; Aufruf f&#252;r mehr Ehrenamtliche</ns2:chapter>
-<ns2:chapter start="04:06">Fortbildung von Ehrenamtlichen</ns2:chapter>
-<ns2:chapter start="05:23">Reinigungsvertrag zur Fassadenreinigung</ns2:chapter>
-<ns2:chapter start="07:06">Reparatur am Dach am Gemeindehaus</ns2:chapter>
-<ns2:chapter start="08:17">Rave Veranstaltung Wiederholung geplant</ns2:chapter>
-<ns2:chapter start="10:14">R&#252;ckblick Silvestersause im Gemeindehaus</ns2:chapter>
-<ns2:chapter start="11:26">Podcatcher Ank&#252;ndigung</ns2:chapter>
-<ns2:chapter start="11:58">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:17">Erg&#228;nzung GKR Aktuell 31</chapter><chapter start="00:55">Kindergottesdienste &amp; Aufruf f&#252;r mehr Ehrenamtliche</chapter><chapter start="04:06">Fortbildung von Ehrenamtlichen</chapter><chapter start="05:23">Reinigungsvertrag zur Fassadenreinigung</chapter><chapter start="07:06">Reparatur am Dach am Gemeindehaus</chapter><chapter start="08:17">Rave Veranstaltung Wiederholung geplant</chapter><chapter start="10:14">R&#252;ckblick Silvestersause im Gemeindehaus</chapter><chapter start="11:26">Podcatcher Ank&#252;ndigung</chapter><chapter start="11:58">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 031</title>
       <ns0:title>GKR Aktuell 031</ns0:title>
@@ -195,7 +300,7 @@ ToC:
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0100</pubDate>
       <link>https://youtu.be/gqlu4L157XI</link>
       <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/031.mp3</guid>
-      <ns0:image href="https://i.ytimg.com/vi/gqlu4L157XI/sddefault.jpg" />
+      <ns0:image href="https://i.ytimg.com/vi/gqlu4L157XI/maxresdefault.jpg" />
       <ns0:episode>031</ns0:episode>
       <ns0:episodeType>full</ns0:episodeType>
       <ns0:subtitle />
@@ -205,15 +310,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/031.mp3" type="audio/mpeg" length="389" />  
       <ns0:duration>389</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns2:chapter>
-<ns2:chapter start="00:14">Silvesterfreizeitt</ns2:chapter>
-<ns2:chapter start="01:33">Neue Reinigungskraft</ns2:chapter>
-<ns2:chapter start="02:01">Jahresplanung 2024</ns2:chapter>
-<ns2:chapter start="02:40">Kollektenzwecke 2024</ns2:chapter>
-<ns2:chapter start="04:20">Umpfarrungen nach Umzug</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:14">Silvesterfreizeitt</chapter><chapter start="01:33">Neue Reinigungskraft</chapter><chapter start="02:01">Jahresplanung 2024</chapter><chapter start="02:40">Kollektenzwecke 2024</chapter><chapter start="04:20">Umpfarrungen nach Umzug</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 030</title>
       <ns0:title>GKR Aktuell 030</ns0:title>
@@ -251,16 +348,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/030.mp3" type="audio/mpeg" length="979" />  
       <ns0:duration>979</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns2:chapter>
-<ns2:chapter start="00:08">Neue Fahrradb&#252;gel vor dem Kirchhof</ns2:chapter>
-<ns2:chapter start="00:57">Haushaltssichtung und -planung</ns2:chapter>
-<ns2:chapter start="02:07">Ergebnisse der GKR Klausur</ns2:chapter>
-<ns2:chapter start="12:33">SV Rotation</ns2:chapter>
-<ns2:chapter start="15:10">Trauer um GKR Mitglied</ns2:chapter>
-<ns2:chapter start="16:13">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:08">Neue Fahrradb&#252;gel vor dem Kirchhof</chapter><chapter start="00:57">Haushaltssichtung und -planung</chapter><chapter start="02:07">Ergebnisse der GKR Klausur</chapter><chapter start="12:33">SV Rotation</chapter><chapter start="15:10">Trauer um GKR Mitglied</chapter><chapter start="16:13">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 029</title>
       <ns0:title>GKR Aktuell 029</ns0:title>
@@ -299,16 +387,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/029.mp3" type="audio/mpeg" length="1386" />  
       <ns0:duration>1386</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns2:chapter>
-<ns2:chapter start="00:20">Interview Kollektiv Drehkreuz</ns2:chapter>
-<ns2:chapter start="11:28">Reflektion des Rave von Ralf</ns2:chapter>
-<ns2:chapter start="11:54">Polizei in Nachbarschaft, Raub auf Kirchengel&#228;nde</ns2:chapter>
-<ns2:chapter start="17:46">Ruhestand von Frau Paul</ns2:chapter>
-<ns2:chapter start="20:28">Verabschiedung</ns2:chapter>
-<ns2:chapter start="20:41">Eindr&#252;cke vom Rave</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:20">Interview Kollektiv Drehkreuz</chapter><chapter start="11:28">Reflektion des Rave von Ralf</chapter><chapter start="11:54">Polizei in Nachbarschaft, Raub auf Kirchengel&#228;nde</chapter><chapter start="17:46">Ruhestand von Frau Paul</chapter><chapter start="20:28">Verabschiedung</chapter><chapter start="20:41">Eindr&#252;cke vom Rave</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 028</title>
       <ns0:title>GKR Aktuell 028</ns0:title>
@@ -347,15 +426,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/028.mp3" type="audio/mpeg" length="513" />  
       <ns0:duration>513</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</ns2:chapter>
-<ns2:chapter start="00:35">Sportplatz Rotation</ns2:chapter>
-<ns2:chapter start="03:50">Gemeindevormittag gemeinsam mit Petrus</ns2:chapter>
-<ns2:chapter start="04:20">Absichtserkl&#228;rung Zusammenschluss Petrus und Bartholom&#228;us</ns2:chapter>
-<ns2:chapter start="05:25">Transformationsprozess in Arbeitsgruppen</ns2:chapter>
-<ns2:chapter start="08:15">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro &amp; Begr&#252;&#223;ung</chapter><chapter start="00:35">Sportplatz Rotation</chapter><chapter start="03:50">Gemeindevormittag gemeinsam mit Petrus</chapter><chapter start="04:20">Absichtserkl&#228;rung Zusammenschluss Petrus und Bartholom&#228;us</chapter><chapter start="05:25">Transformationsprozess in Arbeitsgruppen</chapter><chapter start="08:15">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 027</title>
       <ns0:title>GKR Aktuell 027</ns0:title>
@@ -394,18 +465,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/027.mp3" type="audio/mpeg" length="573" />  
       <ns0:duration>573</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:27">Tuten und Blasen am Mi 28.06.2023</ns2:chapter>
-<ns2:chapter start="01:36">Gemeindevormittag am 08.10.2023</ns2:chapter>
-<ns2:chapter start="03:01">Koordinator:innen treffen</ns2:chapter>
-<ns2:chapter start="04:20">Vernissage der Mauer am Steilen Berg am 05.07.2023</ns2:chapter>
-<ns2:chapter start="05:14">Abendmahl</ns2:chapter>
-<ns2:chapter start="06:44">Aufruf zum Kirchdienst</ns2:chapter>
-<ns2:chapter start="07:17">Zukunftsprozess</ns2:chapter>
-<ns2:chapter start="09:25">Abschied</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:27">Tuten und Blasen am Mi 28.06.2023</chapter><chapter start="01:36">Gemeindevormittag am 08.10.2023</chapter><chapter start="03:01">Koordinator:innen treffen</chapter><chapter start="04:20">Vernissage der Mauer am Steilen Berg am 05.07.2023</chapter><chapter start="05:14">Abendmahl</chapter><chapter start="06:44">Aufruf zum Kirchdienst</chapter><chapter start="07:17">Zukunftsprozess</chapter><chapter start="09:25">Abschied</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 026</title>
       <ns0:title>GKR Aktuell 026</ns0:title>
@@ -440,17 +500,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/026.mp3" type="audio/mpeg" length="634" />  
       <ns0:duration>634</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:38">Jugendarbeit</ns2:chapter>
-<ns2:chapter start="01:24">Gemeindehaus</ns2:chapter>
-<ns2:chapter start="02:55">neue Kantorenstelle</ns2:chapter>
-<ns2:chapter start="04:21">Gemeindevormittag am 18.06.2023</ns2:chapter>
-<ns2:chapter start="04:47">Haushaltsbeschluss</ns2:chapter>
-<ns2:chapter start="06:20">Warum kommt manchmal kein Podcast?</ns2:chapter>
-<ns2:chapter start="10:02">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:38">Jugendarbeit</chapter><chapter start="01:24">Gemeindehaus</chapter><chapter start="02:55">neue Kantorenstelle</chapter><chapter start="04:21">Gemeindevormittag am 18.06.2023</chapter><chapter start="04:47">Haushaltsbeschluss</chapter><chapter start="06:20">Warum kommt manchmal kein Podcast?</chapter><chapter start="10:02">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 025</title>
       <ns0:title>GKR Aktuell 025</ns0:title>
@@ -477,12 +527,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/025.mp3" type="audio/mpeg" length="427" />  
       <ns0:duration>427</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:10">Klausur 2023</ns2:chapter>
-<ns2:chapter start="07:00">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:10">Klausur 2023</chapter><chapter start="07:00">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 024</title>
       <ns0:title>GKR Aktuell 024</ns0:title>
@@ -544,15 +589,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/023.mp3" type="audio/mpeg" length="384" />  
       <ns0:duration>384</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:26">Haushalt 2023</ns2:chapter>
-<ns2:chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</ns2:chapter>
-<ns2:chapter start="04:02">N&#228;chste GKR-Sitzung</ns2:chapter>
-<ns2:chapter start="05:02">Silvesterfeier 2022/2023</ns2:chapter>
-<ns2:chapter start="06:05">Verabschiedung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:26">Haushalt 2023</chapter><chapter start="02:25">Zusammenarbeit Petrus &amp; Bartholom&#228;us</chapter><chapter start="04:02">N&#228;chste GKR-Sitzung</chapter><chapter start="05:02">Silvesterfeier 2022/2023</chapter><chapter start="06:05">Verabschiedung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 022</title>
       <ns0:title>GKR Aktuell 022</ns0:title>
@@ -587,15 +624,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/022.mp3" type="audio/mpeg" length="286" />  
       <ns0:duration>286</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:24">Silvester</ns2:chapter>
-<ns2:chapter start="01:09">Villa J&#252;hling</ns2:chapter>
-<ns2:chapter start="01:50">Klausur 2023</ns2:chapter>
-<ns2:chapter start="02:45">Allianz Gebetswoche</ns2:chapter>
-<ns2:chapter start="03:20">Werbung</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:24">Silvester</chapter><chapter start="01:09">Villa J&#252;hling</chapter><chapter start="01:50">Klausur 2023</chapter><chapter start="02:45">Allianz Gebetswoche</chapter><chapter start="03:20">Werbung</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 021</title>
       <ns0:title>GKR Aktuell 021</ns0:title>
@@ -633,18 +662,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/021.mp3" type="audio/mpeg" length="512" />  
       <ns0:duration>512</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:19">Einladung an die Koordinator:innen</ns2:chapter>
-<ns2:chapter start="00:49">Seniorenarbeit</ns2:chapter>
-<ns2:chapter start="01:49">Senioren Rikscha</ns2:chapter>
-<ns2:chapter start="03:20">Fahrradst&#228;nder vor der Gemeinde</ns2:chapter>
-<ns2:chapter start="03:17">Steiler Berg Au&#223;enmauer</ns2:chapter>
-<ns2:chapter start="05:30">Tag der offenen T&#252;r Steiler Berg</ns2:chapter>
-<ns2:chapter start="05:53">Zusammenarbeit Petrus und Bartholom&#228;us</ns2:chapter>
-<ns2:chapter start="07:45">Besuch in Chemnitz oder Erfurt</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:19">Einladung an die Koordinator:innen</chapter><chapter start="00:49">Seniorenarbeit</chapter><chapter start="01:49">Senioren Rikscha</chapter><chapter start="03:20">Fahrradst&#228;nder vor der Gemeinde</chapter><chapter start="03:17">Steiler Berg Au&#223;enmauer</chapter><chapter start="05:30">Tag der offenen T&#252;r Steiler Berg</chapter><chapter start="05:53">Zusammenarbeit Petrus und Bartholom&#228;us</chapter><chapter start="07:45">Besuch in Chemnitz oder Erfurt</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 020</title>
       <ns0:title>GKR Aktuell 020</ns0:title>
@@ -679,15 +697,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/020.mp3" type="audio/mpeg" length="234" />  
       <ns0:duration>234</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:24">FSJler</ns2:chapter>
-<ns2:chapter start="00:57">Austritt aus dem GKR</ns2:chapter>
-<ns2:chapter start="01:19">Vikar</ns2:chapter>
-<ns2:chapter start="01:46">Raumvermietung</ns2:chapter>
-<ns2:chapter start="02:38">Gottesdienste im Sommer</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:24">FSJler</chapter><chapter start="00:57">Austritt aus dem GKR</chapter><chapter start="01:19">Vikar</chapter><chapter start="01:46">Raumvermietung</chapter><chapter start="02:38">Gottesdienste im Sommer</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 019</title>
       <ns0:title>GKR Aktuell 019</ns0:title>
@@ -724,16 +734,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/019.mp3" type="audio/mpeg" length="655" />  
       <ns0:duration>655</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:22">Pace Projekt</ns2:chapter>
-<ns2:chapter start="01:20">Nextcloud im GKR</ns2:chapter>
-<ns2:chapter start="02:29">Treffen mit Petrus GKR</ns2:chapter>
-<ns2:chapter start="03:45">Bandraum und Bartho Band</ns2:chapter>
-<ns2:chapter start="05:28">Gottesdienst "Beteiligt"</ns2:chapter>
-<ns2:chapter start="07:26">Gemeindevormittag</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:22">Pace Projekt</chapter><chapter start="01:20">Nextcloud im GKR</chapter><chapter start="02:29">Treffen mit Petrus GKR</chapter><chapter start="03:45">Bandraum und Bartho Band</chapter><chapter start="05:28">Gottesdienst "Beteiligt"</chapter><chapter start="07:26">Gemeindevormittag</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 018</title>
       <ns0:title>GKR Aktuell 018</ns0:title>
@@ -776,15 +777,7 @@ ToC:
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/018.mp3" type="audio/mpeg" length="332" />  
       <ns0:duration>332</ns0:duration>
-    <ns2:chapters>
-<ns2:chapter start="00:00">Intro</ns2:chapter>
-<ns2:chapter start="00:16">FSJler:in</ns2:chapter>
-<ns2:chapter start="02:24">Lange Nacht der Kirchen</ns2:chapter>
-<ns2:chapter start="03:40">Gemeindeversammlung</ns2:chapter>
-<ns2:chapter start="04:18">Hygienekonzept</ns2:chapter>
-<ns2:chapter start="05:07">Outro</ns2:chapter>
-</ns2:chapters>
-</item> 
+    <ns2:chapters><chapter start="00:00">Intro</chapter><chapter start="00:16">FSJler:in</chapter><chapter start="02:24">Lange Nacht der Kirchen</chapter><chapter start="03:40">Gemeindeversammlung</chapter><chapter start="04:18">Hygienekonzept</chapter><chapter start="05:07">Outro</chapter></ns2:chapters></item> 
 <item>
       <title>GKR Aktuell 017</title>
       <ns0:title>GKR Aktuell 017</ns0:title>
@@ -1394,6 +1387,60 @@ Weitere Infos zur Gemeinde findet ihr unter: https://www.bartho.org</description
       <ns0:author />
       <enclosure url="https://gkraktuell.bartho.org/archive/002.mp3" type="audio/mpeg" length="286" />  
       <ns0:duration>286</ns0:duration>
+    </item> 
+<item>
+      <title>GKR Aktuell 001</title>
+      <ns0:title>GKR Aktuell 001</ns0:title>
+      <description />
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/YjBSAvDVrwo</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/001.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi/YjBSAvDVrwo/sddefault.jpg" />
+      <ns0:episode>001</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/001.mp3" type="audio/mpeg" length="553" />  
+      <ns0:duration>553</ns0:duration>
+    </item> 
+<item>
+      <title>GKR Aktuell 001</title>
+      <ns0:title>GKR Aktuell 001</ns0:title>
+      <description />
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/YjBSAvDVrwo</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/001.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi_webp/YjBSAvDVrwo/sddefault.webp" />
+      <ns0:episode>001</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/001.mp3" type="audio/mpeg" length="553" />  
+      <ns0:duration>553</ns0:duration>
+    </item> 
+<item>
+      <title>GKR Aktuell 001</title>
+      <ns0:title>GKR Aktuell 001</ns0:title>
+      <description />
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
+      <link>https://youtu.be/YjBSAvDVrwo</link>
+      <guid isPermaLink="true">https://gkraktuell.bartho.org/archive/001.mp3</guid>
+      <ns0:image href="https://i.ytimg.com/vi_webp/YjBSAvDVrwo/sddefault.webp" />
+      <ns0:episode>001</ns0:episode>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns0:subtitle />
+      <ns0:summary />
+      <ns0:explicit>no</ns0:explicit>
+      <ns0:keywords />
+      <ns0:author />
+      <enclosure url="https://gkraktuell.bartho.org/archive/001.mp3" type="audio/mpeg" length="553" />  
+      <ns0:duration>553</ns0:duration>
     </item> 
 <item>
       <title>GKR Aktuell 001</title>
