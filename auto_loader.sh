@@ -7,7 +7,7 @@ YTPLAYLIST="https://www.youtube.com/playlist?list=PLNFzXaeUR0EE1qkHn-onByhgrbu8_
 
 # this updates the content of cwd to the latest version of the playlist
 # only run this if -d arg is set
-if [ $# -ge 2 ] && [ $1 == "-d" ];
+if [ $# -ge 1 ] && [ $1 = "-d" ];
 then
     echo "Downloading latest version of the playlist"
     yt-dlp --yes-playlist -x --audio-format=mp3 --write-info-json $YTPLAYLIST
